@@ -26,7 +26,7 @@ User-Post-Vote API is a backend service built using FastAPI that enables user ma
 1. Clone the repository:
    ```bash
    git clone https://github.com/detayotella/user-post-vote-api.git
-   cd social-vote-api
+   cd user-post-vote-api
    ```
 
 2. Install dependencies:
